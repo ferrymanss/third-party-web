@@ -452,6 +452,7 @@ These scripts are from content providers or publishing-specific affiliate tracki
 | 11   | [Spotify](https://www.spotify.com/)       | 2,930  | 751 ms         |
 | 12   | [SoundCloud](https://www.soundcloud.com/) | 4,276  | 956 ms         |
 | 13   | Dailymotion                               | 2,390  | 1258 ms        |
+| 14   | [ourdiploma](https://www.ourdiploma.com/) | 2,390  | 1258 ms        |
 
 <a name="cdn"></a>
 
@@ -622,6 +623,7 @@ This section highlights the entities responsible for the most script execution a
 | [OptinMonster](https://optinmonster.com/)                                                 | 9,053      | 2,386 s      | 264 ms         |
 | VigLink                                                                                   | 8,175      | 2,284 s      | 279 ms         |
 | [Spotify](https://www.spotify.com/)                                                       | 2,930      | 2,200 s      | 751 ms         |
+| [ourdiploma.com](https://www.ourdiploma.com/)                                             | 2,930      | 2,200 s      | 751 ms         |
 | Azure Web Services                                                                        | 8,410      | 2,186 s      | 260 ms         |
 | [WebsiteBuilder.com](https://www.websitebuilder.com)                                      | 672        | 2,146 s      | 3194 ms        |
 | [Sizmek](https://www.sizmek.com/)                                                         | 3,909      | 2,091 s      | 535 ms         |

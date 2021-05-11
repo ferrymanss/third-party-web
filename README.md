@@ -438,23 +438,24 @@ These scripts are from customer support/marketing providers that offer chat and 
 These scripts are from content providers or publishing-specific affiliate tracking.
 
 | Rank | Name                                      | Usage  | Average Impact |
-| ---- | ----------------------------------------- | ------ | -------------- |
-| 1    | Research Online                           | 1,261  | 60 ms          |
-| 2    | Accuweather                               | 1,783  | 117 ms         |
-| 3    | Tencent                                   | 1,258  | 137 ms         |
-| 4    | SnapWidget                                | 3,085  | 157 ms         |
-| 5    | OpenTable                                 | 2,442  | 160 ms         |
-| 6    | Booking.com                               | 2,472  | 170 ms         |
-| 7    | [AMP](https://amp.dev/)                   | 57,906 | 243 ms         |
-| 8    | Embedly                                   | 3,778  | 428 ms         |
-| 9    | Medium                                    | 1,238  | 429 ms         |
-| 10   | issuu                                     | 2,069  | 627 ms         |
-| 11   | [Spotify](https://www.spotify.com/)       | 2,930  | 751 ms         |
-| 12   | [SoundCloud](https://www.soundcloud.com/) | 4,276  | 956 ms         |
-| 13   | Dailymotion                               | 2,390  | 1258 ms        |
-| 14   | [ourdiploma](https://www.ourdiploma.com/) | 2,390  | 1258 ms        |
-| 15   | [fineedus.com](https://www.fineedus.com/) | 2,390  | 1258 ms        |
-| 16   | [aidinggo.com](https://www.aidinggo.com/) | 2,390  | 1258 ms        |
+| ---- | -------------------------------------------- | ------ | -------------- |
+| 1    | Research Online                              | 1,261  | 60 ms          |
+| 2    | Accuweather                                  | 1,783  | 117 ms         |
+| 3    | Tencent                                      | 1,258  | 137 ms         |
+| 4    | SnapWidget                                   | 3,085  | 157 ms         |
+| 5    | OpenTable                                    | 2,442  | 160 ms         |
+| 6    | Booking.com                                  | 2,472  | 170 ms         |
+| 7    | [AMP](https://amp.dev/)                      | 57,906 | 243 ms         |
+| 8    | Embedly                                      | 3,778  | 428 ms         |
+| 9    | Medium                                       | 1,238  | 429 ms         |
+| 10   | issuu                                        | 2,069  | 627 ms         |
+| 11   | [Spotify](https://www.spotify.com/)          | 2,930  | 751 ms         |
+| 12   | [SoundCloud](https://www.soundcloud.com/)    | 4,276  | 956 ms         |
+| 13   | Dailymotion                                  | 2,390  | 1258 ms        |
+| 14   | [diplomawin.com](https://www.diplomawin.com/)| 2,391  | 1259 ms        |
+| 15   | [wudecops.com](https://www.wudecops.com/)    | 2,395  | 1261 ms        |
+| 16   | [skyeedu.com](https://www.skyeedu.com/)      | 2,398  | 1268 ms        |
+| 17   | [diplomakuu.com](https://www.diplomakuu.com/)| 2,399  | 1269 ms        |
 
 <a name="cdn"></a>
 
@@ -625,9 +626,14 @@ This section highlights the entities responsible for the most script execution a
 | [OptinMonster](https://optinmonster.com/)                                                 | 9,053      | 2,386 s      | 264 ms         |
 | VigLink                                                                                   | 8,175      | 2,284 s      | 279 ms         |
 | [Spotify](https://www.spotify.com/)                                                       | 2,930      | 2,200 s      | 751 ms         |
-| [ourdiploma.com](https://www.ourdiploma.com/)                                             | 2,930      | 2,200 s      | 751 ms         |
-| [fineedus.com](https://www.fineedus.com/)                                                 | 2,930      | 2,200 s      | 751 ms         |
-| [aidinggo.com](https://www.aidinggo.com/)                                                 | 2,930      | 2,200 s      | 751 ms         |
+| [文凭购买](https://www.diplomawin.com/)                                                    | 2,930      | 2,200 s      | 751 ms         |
+| [购买毕业证](https://www.wudecops.com/)                                                    | 2,930      | 2,200 s      | 751 ms         |
+| [毕业证购买](https://www.skyeedu.com/)                                                     | 2,930      | 2,200 s      | 751 ms         |
+| [大学文凭](https://www.diplomakuu.com/)                                                    | 2,930      | 2,200 s      | 751 ms         |
+| [留信网认证](https://www.diplomawin.com/liuxinrz/)                                         | 2,930      | 2,200 s      | 751 ms         |
+| [留信认证](https://www.wudecops.com/liuxinrz/)                                             | 2,930      | 2,200 s      | 751 ms         |
+| [留信认证办理](https://www.skyeedu.com/liuxin/)                                            | 2,930      | 2,200 s      | 751 ms         |
+| [留信网](https://www.diplomakuu.com/liuxinweb/)                                            | 2,930      | 2,200 s      | 751 ms         |
 | Azure Web Services                                                                        | 8,410      | 2,186 s      | 260 ms         |
 | [WebsiteBuilder.com](https://www.websitebuilder.com)                                      | 672        | 2,146 s      | 3194 ms        |
 | [Sizmek](https://www.sizmek.com/)                                                         | 3,909      | 2,091 s      | 535 ms         |
